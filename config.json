@@ -1,0 +1,21 @@
+{
+	"fileDirPath": "C:\\Users\\differ\\Desktop\\pic", 
+	"typeList": [
+		{
+			"typeName":"baicai", 
+			"typeDirPath":"C:\\Users\\differ\\Desktop\\baicai"
+		},
+		{
+			"typeName":"qingcai",
+			"typeDirPath":"C:\\Users\\differ\\Desktop\\qingcai"
+		},
+		{
+			"typeName":"suancai",
+			"typeDirPath":"C:\\Users\\differ\\Desktop\\suancai"
+		},
+		{
+			"typeName":"chenjincai",
+			"typeDirPath":"C:\\Users\\differ\\Desktop\\chenjincai"
+		}
+	]
+}
